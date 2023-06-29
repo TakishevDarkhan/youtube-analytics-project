@@ -47,7 +47,7 @@ if __name__ == '__main__':
       },
       "statistics": {
         "viewCount": "2303120",
-        "subscriberCount": "25900",
+        "subscriberCuont": "25900",
         "hiddenSubscriberCount": false,
         "videoCount": "685"
       }
